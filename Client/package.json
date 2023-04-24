@@ -4,6 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "custom-install": "npm i --force"
     "dev": "vite",
     "start": "vite dev --port 3000",
     "build": "vite build",
